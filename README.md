@@ -7,9 +7,17 @@
 ## 🚀 Fonctionnalités principales
 
 * **Catalogue de véhicules exclusif :** Proposer à la communauté "Vibe RP" une flotte de plus de 700 véhicules avec un affichage précis des caractéristiques (vitesse, accélération, maniabilité, freinage, note globale, prix, nombre de places et poids).
-* **Filtres et recherche avancés :** Trouvez le véhicule idéal en un instant grâce aux options de tri par catégorie, par concessionnaire ou par performances.
+* **Filtres ultra-performants :** Affinez vos recherches instantanément grâce à des filtres avancés et ultra-rapides disponibles pour chaque critère technique.
+* **Gestion des favoris :** Sauvegardez vos véhicules coup de cœur pour les retrouver facilement dans votre espace personnel.
+* **Authentification Discord sécurisée :** Connexion fluide, moderne et renforcée via l'intégration d'OAuth2 Discord.
 * **Back-Office d'administration :** Une interface d'administration intuitive (propulsée par EasyAdmin) pour gérer facilement l'ajout, la modification des véhicules et l'association des images.
 * **Interface responsive et soignée :** Un design moderne et fluide développé sur mesure en SCSS, optimisé pour une navigation rapide sur tous les supports.
+
+---
+
+## 🔮 Prochainement (Roadmap V3)
+
+* **Galerie de customisation :** Visualisez en images les différentes options et inspirations de customisation proposées par les joueurs pour chaque véhicule.
 
 ---
 
