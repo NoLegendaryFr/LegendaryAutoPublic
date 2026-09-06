@@ -1,6 +1,6 @@
 # LegendaryAuto 🚗
 
-**LegendaryAuto** est un catalogue web de concessionnaire automobile conçu sur mesure pour le serveur VIBE RP (adaptive a tout serveurs). Il offre une solution immersive et exclusive que l'on ne retrouve pas sur tous les serveurs, permettant aux joueurs de parcourir, filtrer et comparer en détail les spécifications techniques d'une flotte de plus de 700 véhicules.
+**LegendaryAuto** est un catalogue web de concessionnaire automobile conçu sur mesure pour le serveur VIBE RP (adaptif a tout serveurs). Il offre une solution immersive et exclusive que l'on ne retrouve pas sur tous les serveurs, permettant aux joueurs de parcourir, filtrer et comparer en détail les spécifications techniques d'une flotte de plus de 700 véhicules.
 
 ---
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🔮 Prochainement (Roadmap V3)
+## 🔮 Prochainement (Roadmap V2)
 
 * **Galerie de customisation :** Visualisez en images les différentes options et inspirations de customisation proposées par les joueurs pour chaque véhicule.
 
