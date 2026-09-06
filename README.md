@@ -1,6 +1,6 @@
 # LegendaryAuto 🚗
 
-**LegendaryAuto** est un catalogue web de concessionnaire automobile conçu sur mesure pour les serveurs GTA V RP (et plus particulièrement l'ambiance "Vibe RP"). Il offre une solution immersive et exclusive que l'on ne retrouve pas sur tous les serveurs, permettant aux joueurs de parcourir, filtrer et comparer en détail les spécifications techniques d'une flotte de plus de 700 véhicules.
+**LegendaryAuto** est un catalogue web de concessionnaire automobile conçu sur mesure pour le serveur VIBE RP (adaptive a tout serveurs). Il offre une solution immersive et exclusive que l'on ne retrouve pas sur tous les serveurs, permettant aux joueurs de parcourir, filtrer et comparer en détail les spécifications techniques d'une flotte de plus de 700 véhicules.
 
 ---
 
