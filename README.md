@@ -6,7 +6,7 @@
 
 ## 🚀 Fonctionnalités principales
 
-* **Catalogue de véhicules exclusif :** Proposez à votre communauté "Vibe RP" une flotte de plus de 700 véhicules avec un affichage précis des caractéristiques (vitesse, accélération, maniabilité, freinage, note globale, prix, nombre de places et poids).
+* **Catalogue de véhicules exclusif :** Proposer à la communauté "Vibe RP" une flotte de plus de 700 véhicules avec un affichage précis des caractéristiques (vitesse, accélération, maniabilité, freinage, note globale, prix, nombre de places et poids).
 * **Filtres et recherche avancés :** Trouvez le véhicule idéal en un instant grâce aux options de tri par catégorie, par concessionnaire ou par performances.
 * **Back-Office d'administration :** Une interface d'administration intuitive (propulsée par EasyAdmin) pour gérer facilement l'ajout, la modification des véhicules et l'association des images.
 * **Interface responsive et soignée :** Un design moderne et fluide développé sur mesure en SCSS, optimisé pour une navigation rapide sur tous les supports.
